@@ -1,16 +1,29 @@
 # jemdoc: menu{MENU}{publication.html}
 = Publications
 
-- Journal Papers
--- [ A community effort to protect genomic data sharing, collaboration and outsourcing]\n
-Wang, Shuang and Jiang, Xiaoqian and Tang, Haixu and Wang, Xiaofeng and Bu, Diyue and Carey, Knox and Dyke, Stephanie OM and Fox, Dov and *Jiang, Chao* and Lauter, Kristin and et al. npj Genomic Medicine 2 (1), 33, 2017
--- [https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-016-0316-1 Secure Multi-pArty Computation Grid LOgistic REgression (SMAC-GLORE)]\n
-Haoyi Shi, *Chao Jiang*, Wenrui Dai, Xiaoqian Jiang, Yuzhe Tang, Lucila Ohno-Machado and Shuang Wang, BMC Medical informatics and Decision Making (BMC), 16(Suppl 3):89, 2016.
--- [https://academic.oup.com/jamia/article/22/6/1153/2358136/Trends-in-biomedical-informatics-automated-topic Trends in biomedical informatics: automated topic analysis of JAMIA articles]\n
-Dong Han, Shuang Wang, *Chao Jiang*, Xiaoqian Jiang, Hyeon-Eui Kim, Jimeng Sun, Lucila Ohno-Machado, J Am Med Inform Assoc (2015) 22 (6): 1153-1163.
-- Conference Papers
-- Posters
--- MALTASE: a Mobile AppLication To improve patients’ Access to their data Sharing preferencE \n
-*C. Jiang*, X. Jiang, S. Wang, D. Guijarro, E. Bell, I. Jang, G. Yun, M. Rahman, L. Ohno-Machado, H. Kim, AMIA (2017)
--- Honoring Patient’s Data Sharing Preferences: Implementation Challenges \n
-E. Bell, D. Guijarro, I. Jang, W. Zhu, T. Bath, G. Yun, M. Rahman, *C. Jiang*, X. Jiang, L. Ohno-Machado, H. Kim, AMIA (2017)
+== Journal Papers
+
+- K. Shen, W. Yu, *L. Zhao*, and D. P. Palomar, “Optimization of MIMO Device-to-Device Networks via Matrix Fractional Programming: A Minorization-Maximization Approach,” IEEE/ACM Trans. on Networking, vol. 27, no. 5, pp. 2164-2177, Oct. 2019.
+
+- *L. Zhao*, Y. Wang, S. Kumar, and D. P. Palomar, “Optimization Algorithms for Graph Laplacian Estimation via ADMM and MM,” IEEE Trans. on Signal Processing, vol. 67, no. 16, pp. 4231-4244, Aug. 2019.
+
+- X. Wang, D. P. Palomar, *L. Zhao*, M. S. Ghidaoui, and R. D. Murch, “Spectral-Based Methods for Pipeline Leakage Localization,” Journal of Hydraulic Engineering, 145(3), 2019.
+
+- *L. Zhao* and D. P. Palomar, “A Markowitz Portfolio Approach to Options Trading,” IEEE Trans. on Signal Processing, vol. 66, no. 16, pp. 4223-4238, Aug. 2018.
+
+- *L. Zhao* and D. P. Palomar, “Maximin Joint Optimization of Transmitting Code and Receiving Filter in Radar and Communications,” IEEE Trans. on Signal Processing, vol. 65, no. 4, pp. 850-863, Feb. 2017.
+
+- *L. Zhao*, J. Song, P. Babu, and D. P. Palomar, “A Unified Framework for Low Autocorrelation Sequence Design via Majorization-Minimization,” IEEE Trans. on Signal Processing, vol. 65, no. 2, pp. 438-453, Jan. 2017.
+
+- *L. Zhao*, P. Babu, and D. P. Palomar, “Efficient Algorithms on Robust Low-Rank Matrix Completion Against Outliers,” IEEE Trans. on Signal Processing, vol. 64, no. 18, pp. 4767- 4780, Sept. 2016.
+
+== Conference Papers
+
+- R. Zhou, W. Pu, *L. Zhao*, M. -Y. You, Q. Shi and S. Theodoridis, "Cooperative Sensing Via Matrix Factorization of the Partially Received Sample Covariance Matrix," in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Apr. 2024.
+
+- Y. Chen, *L. Zhao*, and K. Shen, "Max-and-Min Fractional Programming for Communications and Sensing," in IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sept. 2023.
+
+- Y. Chen, *L. Zhao*, Y. Zhang, and K. Shen, "Inverse Quadratic Transform for Minimizing A Sum of Ratios," in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Jun. 2023.
+
+- *L. Zhao*, P. Babu, and D. P. Palomar, "Robust low-rank optimization for large scale problems," in Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, U.S.A., Nov. 2015.
+
