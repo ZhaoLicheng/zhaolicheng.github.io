@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{index.html}
+= Licheng Zhao
+
+~~~
+{}{img_left}{licheng.jpg}{alt text}{122.4px}{163.2px}{}
+Research Scientist \n
+Center for Network System Optimization \n
+[https://www.sribd.cn/ Shenzhen Research Institute of Big Data (SRIBD)]  \n
+\n
+Email: zhaolicheng [AT] sribd [DOT] cn
+~~~
+
+== Short Bio 
+I am a Research Scientist with Shenzhen Research Institute of Big Data (SRIBD). I received my Bachelor’s degree in Information Engineering from Southeast University (SEU), Nanjing, China, in 2014, and my Ph.D. degree in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), in 2018. During 2018-2021, I worked in JD.COM as an algorithm engineer for recommendation systems.
+== Research Interests
+- Convex and Nonconvex Optimization Theory
+- Radar Signal Processing
+- Statistical Machine Learning
+- Optimizers for Deep Learning
